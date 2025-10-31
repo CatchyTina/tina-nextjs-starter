@@ -1,4 +1,5 @@
 ---
-name: Napoleon
-avatar: /uploads/authors/napoleon.webp
+name: Christina Alina Ana Borchert
+avatar: /uploads/authors/Profil-klein.png
 ---
+
